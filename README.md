@@ -12,7 +12,8 @@ In this Git Essentials / Git for Everybody course, you'll learn everything I use
 * creating a new repo
 * adding ssh keys
 * branching
-* merging 
+* merging
+* balancing 
 * rebasing
 * tagging
 * resolving merge/rebase conflicts 
@@ -25,4 +26,4 @@ You can find Git Essentials on:
 3. [Udemy](https://www.udemy.com/course/git-and-github-tutorial/?referralCode=91132F334DCD0CCAA250) 
 
 ## The original blog post from 2018
-.. can be found here -> [View the full blog post with video](https://kalob.io/blog/getting-started-with-github/)
+.. can be found here -> [View the full blog post with images and video](https://kalob.io/blog/getting-started-with-github/)
